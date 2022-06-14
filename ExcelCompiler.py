@@ -3,11 +3,11 @@ import pandas as pd
 import glob
   
 # path of the folder
-path = r'ExcelFolder'
+path = r'ExcelFolder' #define here your own folder make a directory in the same folder you are storing this file and name it ExcelFolder
   
 # reading all the excel files
 filenames = glob.glob(path + "\*.xlsx")
-print('File names:', filenames)
+print('File names:', filenames) 
   
 # initializing empty data frame
 finalexcelsheet = pd.DataFrame()
