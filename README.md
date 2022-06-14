@@ -5,7 +5,7 @@ This script is intended for people who are looking for an easy to run script tha
 
 <h1>Installation</h1> 
 <li>Download this file from github and save it to a folder on your computer.</li>
-<li>make a new folder inside this folder and name it ExcelFolder, notice the camel case</li>
+<li>Make a new folder inside this folder and name it ExcelFolder, notice the camel case</li>
 <li>Place your excel files here. <strong>IMPORTANT!</strong> mark each sheet as a table!</li>
 <li>If you have python installed on your pc: open vs code and run the file</li>
 
@@ -18,8 +18,8 @@ Dit script is bedoeld voor mensen die op zoek zijn naar een eenvoudig uit te voe
 
 <h1>Installatie</h1> 
 <li>Download dit bestand vanuit github en sla het op in een folder op je computer</li>
-<li>maak een nieuwe map in in deze map en noem het ExcelFolder, let op de hoofdletters</li>
+<li>Maak een nieuwe map in in deze map en noem het ExcelFolder, let op de hoofdletters</li>
 <li>Plaats binnen in ExcelFolder je excel bestanden. <strong>BELANGRIJK!</strong> markeer iedere sheet in je excel bestanden als een tabel!</li>
-<li>als je python hebt geinstalleerd: open vs code and run het file</li>
+<li>Als je python hebt geinstalleerd: open vs code and run het file</li>
 
 Afhankelijk van het aantal bestanden kan dit even duren.
