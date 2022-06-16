@@ -3,6 +3,9 @@ This script is intended for people who are looking for an easy to run script tha
 
 <h4>It is recommended to have some familiarity with python, however, it is not a requirement. What is important is having an editor to modify the file, this is required. Use VS studio code for this.</h4> 
 
+<a href="https://code.visualstudio.com/">Download Vs Code<a/>
+<a href="[https://code.visualstudio.com/](https://marketplace.visualstudio.com/items?itemName=ms-python.python)">Download Python for vs Code<a/>
+
 <h1>Installation</h1> 
 <li>Download this file from Github and save it to a folder on your computer.</li>
 (https://user-images.githubusercontent.com/61238859/174031458-3786dbe5-6589-4fd9-b058-d92ec650a268.png)
