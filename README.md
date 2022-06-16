@@ -10,6 +10,7 @@ This script is intended for people who are looking for an easy to run script tha
 (https://user-images.githubusercontent.com/61238859/174031507-3a3659a4-5a8a-49db-9a8e-f3457a5fdffc.png)
 <li>Place your excel files here. <strong>IMPORTANT!</strong> mark each sheet as a table!</li>
 (https://user-images.githubusercontent.com/61238859/174031678-ffbbc215-0e60-4d01-a5d3-d5358e63e178.png)
+
 (https://user-images.githubusercontent.com/61238859/174031534-df0521f6-61cb-49c8-b839-b670b2da0456.png)
 <li>If you have python installed on your pc: open vs code and change the path on row 6 and 32</li>
 
