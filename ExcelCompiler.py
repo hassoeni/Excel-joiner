@@ -3,7 +3,7 @@ import pandas as pd
 import glob
   
 # path of the folder
-path = r'ExcelFolder' #define here your own folder make a directory in the same folder you are storing this file and name it ExcelFolder
+path = r'C:\Users\Hasso\Downloads\Programmeren\Python Projects\ExcelFolder' #define here your own folder make a directory in the same folder you are storing this file and name it ExcelFolder and change the path
   
 # reading all the excel files
 filenames = glob.glob(path + "\*.xlsx")
@@ -26,7 +26,7 @@ for file in filenames:
       df, ignore_index=True)
   
 # to print the combined data
-print('Final Sheet:')
+print('Final Sheet:', finalexcelsheet)
 # display(finalexcelsheet)
   
-finalexcelsheet.to_excel(r'Final.xlsx', index=False)
+finalexcelsheet.to_excel(r'C:\Users\Hasso\Downloads\Programmeren\Python Projects\Final.xlsx', index=False) #change this into the folder you want to store the file and give it a name FinalExcel.xlsx or something else
