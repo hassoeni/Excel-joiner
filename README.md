@@ -5,6 +5,8 @@ This script is intended for people who are looking for an easy to run script tha
 
 <ul
 <a href="https://code.visualstudio.com/">Download Vs Code<a/>
+</ul>
+<ul>
 <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python">Download Python for vs Code<a/>
 </ul>
 
