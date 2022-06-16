@@ -4,7 +4,7 @@ This script is intended for people who are looking for an easy to run script tha
 <h4>It is recommended to have some familiarity with python, however, it is not a requirement. What is important is having an editor to modify the file, this is required. Use VS studio code for this.</h4> 
 
 <ul
-<a href="https://code.visualstudio.com/">Download Vs Code<a/>
+<a href="https://code.visualstudio.com/docs/?dv=win">Download Vs Code<a/> 
 </ul>
 <ul>
 <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python">Download Python for vs Code<a/>
